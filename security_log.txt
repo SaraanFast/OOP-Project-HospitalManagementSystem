@@ -1,0 +1,22 @@
+09-05-2026 17:47:57,Patient,618,Access Denied: Invalid Credentials
+09-05-2026 17:47:57,Patient,618,Access Denied: Invalid Credentials
+09-05-2026 19:33:57,Patient,0,Access Denied: Invalid Credentials
+09-05-2026 19:51:37,Patient,23,Access Denied: Invalid Credentials
+09-05-2026 19:51:42,Patient,2378,Access Denied: Invalid Credentials
+09-05-2026 19:51:47,Patient,2378,Access Denied: Invalid Credentials
+09-05-2026 19:51:47,Patient,2378,Access Denied: Invalid Credentials
+09-05-2026 19:51:48,Patient,2378,Access Denied: Invalid Credentials
+09-05-2026 19:51:48,Patient,2378,Access Denied: Invalid Credentials
+09-05-2026 19:51:48,Patient,2378,Access Denied: Invalid Credentials
+09-05-2026 19:51:48,Patient,2378,Access Denied: Invalid Credentials
+09-05-2026 19:51:49,Patient,2378,Access Denied: Invalid Credentials
+09-05-2026 19:51:50,Patient,2378,Access Denied: Invalid Credentials
+09-05-2026 19:54:32,Admin,1,Successful Login Access Granted
+09-05-2026 19:55:00,Doctor,101,Successful Login Access Granted
+09-05-2026 19:57:17,Admin,1,Successful Login Access Granted
+09-05-2026 19:57:31,Doctor,101,Successful Login Access Granted
+10-05-2026 13:55:42,Patient,1,FAILED
+10-05-2026 13:55:45,Patient,1,FAILED
+10-05-2026 13:55:47,Patient,1,FAILED
+10-05-2026 14:01:32,Admin,1,FAILED
+10-05-2026 14:02:05,Doctor,1,FAILED
