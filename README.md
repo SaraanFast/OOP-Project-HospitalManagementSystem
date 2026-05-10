@@ -21,6 +21,8 @@ Doctor:
 Admin:
 - ID: 1 | Password: admin123
 can also check .txt to find ids and passwords
+
+
  Controls
 - Mouse Click for buttons
 - Type in input fields
