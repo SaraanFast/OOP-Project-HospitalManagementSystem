@@ -3,7 +3,7 @@
 Full-featured Hospital Management System built with SFML for GUI.
 
  Features
-- Beautiful SFML GUI Interface
+- SFML GUI Interface
 - Patient, Doctor and Admin Roles
 - Book/Cancel Appointments
 - Manage Prescriptions & Bills
