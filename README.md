@@ -36,6 +36,7 @@ Github link:
 https://github.com/SaraanFast/OOP-Project-HospitalManagementSystem
 
 Note:
+
 arial.ttf is included in the project folder.
 If not found, you can get it from:
 - Windows: C:\Windows\Fonts\arial.ttf (just copy paste it)
