@@ -35,6 +35,13 @@ Admin:
 Github link:
 https://github.com/SaraanFast/OOP-Project-HospitalManagementSystem
 
+Note:
+arial.ttf is included in the project folder.
+If not found, you can get it from:
+- Windows: C:\Windows\Fonts\arial.ttf (just copy paste it)
+- Or download it online from any free font website
+Place it in the same directory as the executable before running.
+
 
 Technologies
 - C++ Visual Studio
